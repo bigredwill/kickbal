@@ -5,7 +5,7 @@ backend:
 
 display_url: https://kickbal.co # This url will display in the top-right of the CMS
 media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+public_folder: "/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
