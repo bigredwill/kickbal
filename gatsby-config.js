@@ -1,5 +1,12 @@
 const postcssPresetEnv = require('postcss-preset-env')
 
+var netlifyCmsPaths = {
+  resolve: `gatsby-plugin-netlify-cms-paths`,
+  options: {
+    cmsConfig: `/static/admin/config.yml`,
+  },
+}
+
 module.exports = {
   siteMetadata: {
     title: 'Kickbal.co',
@@ -39,7 +46,7 @@ module.exports = {
         theme_color: '#00C2BD',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
-        display: 'standalone',
+        display: 'browser',
         icon: `${__dirname}/static/images/logo.svg` // This path is relative to the root of the site.
       }
     },
@@ -51,6 +58,13 @@ module.exports = {
         path: `${__dirname}/static/images`,
         name: 'images'
       }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/uploads`,
+        name: 'uploads',
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
@@ -68,13 +82,12 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          // gatsby-remark-relative-images must
-          // go before gatsby-remark-images
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 800,
+              maxWidth: 960,
+              backgroundColor: 'transparent',
               linkImagesToOriginal: false
             }
           },

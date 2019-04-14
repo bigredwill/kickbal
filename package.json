@@ -61,6 +61,7 @@
   },
   "devDependencies": {
     "del-cli": "^1.1.0",
+    "gatsby-plugin-netlify-cms-paths": "^1.2.1",
     "prettier": "^1.16.1"
   }
 }
