@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yelloecake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    title: 'Kickbal.co',
+    siteUrl: 'https://kickbal.co'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -24,11 +24,6 @@ module.exports = {
             urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
             handler: `staleWhileRevalidate`
           },
-          {
-            // uploadcare
-            urlPattern: /^https:\/\/ucarecdn.com\/[-a-zA-Z0-9@:%_\+.~#?&//=]*?\/10x\//,
-            handler: `staleWhileRevalidate`
-          }
         ],
         skipWaiting: true,
         clientsClaim: true
@@ -37,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'kickbal',
+        short_name: 'kickbal',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
