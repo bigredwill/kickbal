@@ -152,6 +152,13 @@ blockquote {
 
 /* Layout */
 
+/* Allow for sticky footer */
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .section {
   width: 100%;
   padding: 5rem 0;
