@@ -1,7 +1,6 @@
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -53,8 +52,8 @@ exports.createPages = ({ actions, graphql }) => {
           ),
           // additional data can be passed via context
           context: {
-            id
-          }
+            id,
+          },
         })
       })
     })
@@ -63,9 +62,6 @@ exports.createPages = ({ actions, graphql }) => {
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
-
-  // convert frontmatter images
-  fmImagesToRelative(node)
 
   // Create smart slugs
   // https://github.com/Vagr9K/gatsby-advanced-starter/blob/master/gatsby-node.js
@@ -95,14 +91,14 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       node,
       name: 'slug',
-      value: slug
+      value: slug,
     })
 
     // Add contentType to node.fields
     createNodeField({
       node,
       name: 'contentType',
-      value: parsedFilePath.dir
+      value: parsedFilePath.dir,
     })
   }
 }
