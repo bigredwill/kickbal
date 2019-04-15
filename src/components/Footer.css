@@ -1,5 +1,4 @@
 .footer-wrapper {
-	flex: 1;
 	background: var(--lightGrey);
 	display: flex;
 	flex-direction: column;

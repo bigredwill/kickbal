@@ -159,6 +159,11 @@ blockquote {
   min-height: 100vh;
 }
 
+/* main content fills space */
+main {
+  flex: 1;
+}
+
 .section {
   width: 100%;
   padding: 5rem 0;
