@@ -50,7 +50,7 @@ export default ({ children, meta, title }) => {
           }
 
         return (
-          <Fragment>
+          <div class='page-wrapper'>
             <Helmet
               defaultTitle={siteTitle}
               titleTemplate={`%s | ${siteTitle}`}
@@ -75,7 +75,7 @@ export default ({ children, meta, title }) => {
             <Fragment>{children}</Fragment>
 
             <Footer />
-          </Fragment>
+          </div>
         )
       }}
     />

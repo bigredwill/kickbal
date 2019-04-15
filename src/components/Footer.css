@@ -1,3 +1,11 @@
+.footer-wrapper {
+	flex: 1;
+	background: var(--lightGrey);
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+
 .footer {
   padding: 2rem 0;
   background: var(--lightGrey);

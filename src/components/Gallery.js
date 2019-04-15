@@ -21,6 +21,7 @@ export const query = graphql`
   }
 `
 
+// TODO: Rewrite for non-cdn. Use 
 export default class Gallery extends Component {
   state = {
     loaded: false,
