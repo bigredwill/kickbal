@@ -6,13 +6,13 @@ import './InstagramFeed.css'
 export default class InstagramFeed extends Component {
   static defaultProps = {
     instagramUrl: 'https://instagram.com/instagram',
-    count: 7
+    count: 7,
   }
 
   state = {
     mounted: false,
     posts: [],
-    instagramUsername: ''
+    instagramUsername: '',
   }
 
   clearStorage() {
@@ -35,7 +35,7 @@ export default class InstagramFeed extends Component {
       this.fetchInstagram()
       this.setState({
         mounted: true,
-        instagramUsername
+        instagramUsername,
       })
     }
   }
@@ -56,13 +56,13 @@ export default class InstagramFeed extends Component {
             insaFeed = data && data.items ? data.items : []
             localStorage.setItem('insaFeed', JSON.stringify(insaFeed))
             this.setState({
-              posts: insaFeed
+              posts: insaFeed,
             })
           })
           .catch(err => console.error(err))
     }
     this.setState({
-      posts: JSON.parse(insaFeed)
+      posts: JSON.parse(insaFeed),
     })
   }
 

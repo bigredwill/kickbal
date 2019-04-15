@@ -6,16 +6,16 @@ import './Accordion.css'
 export default class Accordion extends React.Component {
   static defaultProps = {
     items: [],
-    className: ''
+    className: '',
   }
 
   state = {
-    activeItem: null
+    activeItem: null,
   }
 
   handleClick = index => {
     this.setState({
-      activeItem: this.state.activeItem === index ? null : index
+      activeItem: this.state.activeItem === index ? null : index,
     })
   }
 
