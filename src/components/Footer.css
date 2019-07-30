@@ -1,5 +1,5 @@
 .footer-wrapper {
-	background: var(--lightGrey);
+	/*background: var(--lightGrey);*/
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
@@ -7,7 +7,7 @@
 
 .footer {
   padding: 2rem 0;
-  background: var(--lightGrey);
+  /*background: var(--lightGrey);*/
   font-size: 1.2rem;
 }
 

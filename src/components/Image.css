@@ -1,3 +1,6 @@
+.gatsby-resp-image-wrapper {
+  max-width: 500px !important;
+}
 .Image {
   display: block;
   width: 100%;

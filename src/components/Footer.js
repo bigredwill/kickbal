@@ -8,7 +8,7 @@ export default () => (
       	<span>© 2019 kickbal</span>
       	<br/>
         <span>
-          made by <a href="https://wsimons.com/">wsimons</a>.
+          site by <a href="https://wsimons.com/">wsimons</a>.
         </span>
       </div>
     </footer>
