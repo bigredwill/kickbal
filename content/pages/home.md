@@ -32,9 +32,9 @@ Program includes SF premiere of ANAGAMA (2017) a 25 minute solo created and perf
 
 ![]()
 
-#### Emma Lanier and Ky Frances are Co-Artistic directors of Kickbal.
+#### Emma Lanier and Ky Frances
 
-They started making work together in 2014, and serve as a resource for each other when working apart. Separately, they have lived and danced in Spain, Chile, Mexico, and in the USA. They have presented their work nationally at Pulitzer Arts Foundation in St. Louis, MO, David Zwirner Gallery in New York, NY, and locally at BAMPFA, Dance Lovers 8, ODC Pilot71, LevySalon, Works in the Works, Studio 210, 63 Bluxome Street, Spruce Street Co-op, and SPF12. They are current choreographers in residence at RoundAntennae under the mentorship of KT Nelson. Emma dances with Rachael Cleveland’s ReadyMaids in Oakland and Ky with Molly Rose-Williams and co.
+Emma Lanier and Ky Frances are Co-Artistic directors of Kickbal. They started making work together in 2014, and serve as a resource for each other when working apart. Separately, they have lived and danced in Spain, Chile, Mexico, and in the USA. They have presented their work nationally at Pulitzer Arts Foundation in St. Louis, MO, David Zwirner Gallery in New York, NY, and locally at BAMPFA, Dance Lovers 8, ODC Pilot71, LevySalon, Works in the Works, Studio 210, 63 Bluxome Street, Spruce Street Co-op, and SPF12. They are current choreographers in residence at RoundAntennae under the mentorship of KT Nelson. Emma dances with Rachael Cleveland’s ReadyMaids in Oakland and Ky with Molly Rose-Williams and co.
 
 #### Jeremy Bannon-Neches
 
