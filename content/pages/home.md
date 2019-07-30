@@ -3,7 +3,10 @@ template: HomePage
 slug: ''
 title: Kickbal
 featuredImage: /uploads/emma-lanier-29-copy-1-.jpg
-subtitle: Fun & Dance & Community & Parties
+subtitle: |-
+  is the artistic partnership of Emma Lanier and Ky Frances
+
+  we make dance and overthink emails
 meta:
   description: Kickbal is a dance company in San Francisco by Emma Lanier and Ky Frances
   title: Kickbal Dance Company
