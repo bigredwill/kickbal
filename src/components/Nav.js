@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
-import { Menu, X } from 'react-feather'
+// import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 
 import './Nav.css'
@@ -13,8 +13,18 @@ export class Navigation extends Component {
     currentPath: false,
   }
 
-  componentDidMount = () =>
-    this.setState({ currentPath: this.props.location.pathname })
+  scrollListener = () => {
+    const windowHeight = window.scrollY;
+    if (windowHeight >= 200 && !this.state.scrolled) {
+      this.setState({
+        scrolled: true,
+      })
+    } else if (windowHeight < 200 && this.state.scrolled) {
+      this.setState({
+        scrolled: false
+      })
+    }
+  }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
 
@@ -27,7 +37,7 @@ export class Navigation extends Component {
     })
 
   render() {
-    const { active } = this.state,
+    const { active, scrolled } = this.state,
       { subNav } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
         <Link
@@ -43,10 +53,10 @@ export class Navigation extends Component {
       )
 
     return (
-      <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
-        <div className="Nav--Container container">
+      <nav className={`Nav ${active ? 'Nav-active' : ''} ${scrolled ? 'Nav-scrolled' : ''}`}>
+        <div className="Nav--Container">
           <Link to="/" onClick={this.handleLinkClick}>
-            <Logo />
+            {/*<Logo />*/}
           </Link>
           {/*<div className="Nav--Links">
             <NavLink to="/">Home</NavLink>

@@ -3,6 +3,13 @@
   top: 0;
   width: 100%;
   z-index: 1;
+  margin-top: 15rem;
+  /*margin-left: -30px;*/
+  /*transition: margin-left 300ms ease;*/
+}
+
+.Nav-scrolled {
+  /*margin-left: 5px;*/
 }
 
 .Nav--Container {
@@ -102,6 +109,15 @@
 }
 
 @media (max-width: 600px) {
+  .Nav {
+    margin-top: 10rem;
+    margin-left: -100px;
+  }
+
+  .Nav-scrolled {
+    margin-left: 0px;
+  }
+
   .Nav--Container {
     display: flex;
   }

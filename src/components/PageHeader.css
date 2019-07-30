@@ -6,6 +6,9 @@
 
 .PageHeader .BackgroundImage {
   opacity: 0.8;
+  /* For this image, it works */
+  background-position-y: top;
+  background-position-x: 43%;
 }
 
 .PageHeader-large {

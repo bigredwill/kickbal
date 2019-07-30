@@ -50,7 +50,7 @@ export default ({ children, meta, title }) => {
           }
 
         return (
-          <div class='page-wrapper'>
+          <div className='page-wrapper'>
             <Helmet
               defaultTitle={siteTitle}
               titleTemplate={`%s | ${siteTitle}`}
