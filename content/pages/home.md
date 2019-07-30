@@ -50,15 +50,19 @@ Julie Crothers is a freelance dancer, choreographer, and educator based in Oakla
 
 #### Chelsea Reichert
 
-![]()
+![Chelsea Reichert waving on a subway train.](/uploads/chelsea.jpg "Chelsea Reichert waving on a subway train.")
 
 Chelsea Reichert is a freelance dancer based in San Francisco, California. She graduated from Marymount Manhattan College with a BFA in dance, and also studied at the San Francisco Conservatory of Dance under the direction of Summer Lee Rhatigan. Most recently Chelsea has created and performed with tinypistol/Maurya Kerr, Courtney Mazeika, Sharp&Fine, Christine Cali, and Emily Hansel.
 
 #### Cauveri Madabushi Suresh
 
+![Cauveri Madabushi Suresh smiling in a grocery store aisle.](/uploads/cauveri.jpg "Cauveri Madabushi Suresh smiling in a grocery store aisle.")
+
 Cauveri Madabushi Suresh graduated from Barnard College with a B.A. in Dance. She has had the fortune to learn from Jodi Melnick, Doug Varone, David Parker, Katie Faulkner, and Alex Springer among many others, and has performed in original works by Joanna Kotze, Jodi Melnick, Okwui Okpokwasili, and Christina Robson. She collaborates frequently with Leah Samuels as part of the project Samuels/Suresh and with Kylie Woodward-Sollesnes as part of Apartment A Dances, and currently dances for Lauren Simpson Dance and Kickbal.
 
 #### Melissa Weikart
+
+![Melissa Weikart smiling.](/uploads/melissa.jpg "Melissa Weikart smiling.")
 
 Melissa Weikart is a vocalist, pianist, and composer based in Boston, MA. After graduating from Tufts University in 2016 (B.A. Music and Spanish), she earned her Master’s degree in Contemporary Improvisation from New England Conservatory. Melissa co-founded Students Advocating for Gender Equality at NEC, and was awarded an Entrepreneurial Musicianship grant to recompose the album Pet Sounds by The Beach Boys for an all-female rock band. In December 2017, she released her debut EP “Coffee,” and she is currently working on a full-length album.
 
