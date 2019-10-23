@@ -14,15 +14,9 @@ meta:
     dance and overthink emails.
   title: Kickbal Dance Company
 ---
-## Next Kickbal show —> September 20 & 21st, 8pm
+**News!** ---> Kickbal is the recipient of the ODC Theater Fleishhacker Opportunity Fund and will be producing a show at ODC Theater in April 2020! 
 
-@ [SAFEhouse Arts](http://www.safehousearts.org/), 145 Eddy Street, SF 
-
-[Tickets here.](http://siteline.vendini.com/site/safehousearts.org/event/fcb41b78136f467f1d7e3260901fdfbb)
-
-WE ARE CURATING THE WHOLE EVENING
-
-Program includes SF premiere of ANAGAMA (2017) a 25 minute solo created and performed by Emma, with Ky as rehearsal director, and their lol-worthy duet 11 Options for Beginnings of Various Dances. Special guest to be announced!
+**Upcoming** ---> Kickbal at Fresh Festival, January 2020
 
 - - -
 
@@ -66,8 +60,9 @@ Cauveri Madabushi Suresh graduated from Barnard College with a B.A. in Dance. Sh
 
 Melissa Weikart is a vocalist, pianist, and composer based in Boston, MA. After graduating from Tufts University in 2016 (B.A. Music and Spanish), she earned her Master’s degree in Contemporary Improvisation from New England Conservatory. Melissa co-founded Students Advocating for Gender Equality at NEC, and was awarded an Entrepreneurial Musicianship grant to recompose the album Pet Sounds by The Beach Boys for an all-female rock band. In December 2017, she released her debut EP “Coffee,” and she is currently working on a full-length album.
 
----
----
+- - -
+
+- - -
 
 Kickbal is fiscally sponsored by Dancers Group. [Make a tax-deductible contribution here](https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=). 
 Contact: emmahalladey@gmail.com
