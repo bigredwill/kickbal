@@ -14,9 +14,12 @@ meta:
     dance and overthink emails.
   title: Kickbal Dance Company
 ---
-**News!** ---> Kickbal is the recipient of the ODC Theater Fleishhacker Opportunity Fund and will be producing a show at ODC Theater in April 2020! 
+**News!** ---> Kickbal is the recipient of the ODC Theater Fleishhacker Opportunity Fund and will be producing a show at ODC Theater in April 2020! **DATES: April 10th & 11th at 8pm**
 
-**Upcoming** ---> Kickbal at Fresh Festival, January 2020
+**Upcoming** ---> Catch Kickbal at [Fresh Festival 2020](https://freshfestival.org/exchanges)!
+<br/>RIPE [raw + intimate performance experiments]
+Thursday, January 9, 7:00pm
+at Brava! for Women in the Arts
 
 
 <div style="margin: 4rem 0; display: flex; justify-content: center;">
