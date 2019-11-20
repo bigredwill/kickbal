@@ -19,10 +19,13 @@ meta:
 **Upcoming** ---> Kickbal at Fresh Festival, January 2020
 
 
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/fYYpeI9LJBFH8qDx8C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
-
+<div style="margin: 4rem 0; display: flex; justify-content: center;">
+  <video autoplay loop muted playsinline style="max-width: 100%;">
+    <source src="/uploads/oranges.webm" type="video/webm">
+    <source src="/uploads/oranges.mp4" type="video/mp4">
+    <img src="/uploads/oranges.gif">
+  </video>
+</div>
 
 - - -
 
