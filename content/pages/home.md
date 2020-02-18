@@ -16,7 +16,7 @@ meta:
 ---
 **News!** ---> Kickbal Presents HOMEBODY at ODC Theater. April 10-11, 8pm. Buy tickets here: http://odc.dance/homebody 
 
-****
+- - -
 
 <div style="margin: 4rem 0; display: flex; justify-content: center;">
   <video autoplay loop muted playsinline style="max-width: 100%;">
@@ -30,6 +30,10 @@ meta:
 
 - - -
 
+<a href="https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=">
+![Click here to donate.](/uploads/bee.jpg "Click here to donate.")
+</a>
+
 ## Kickbal fam
 
 ### Emma Lanier and Ky Frances
@@ -37,10 +41,6 @@ meta:
 ![Emma Lanier smiling and Ky Frances holding a puppy](/uploads/emma-and-ky.png "Emma Lanier smiling and Ky Frances holding a puppy")
 
 Emma Lanier and Ky Frances are Co-Artistic directors of Kickbal. They started making work together in 2014, and serve as a resource for each other when working apart. Separately, they have lived and danced in Spain, Chile, Mexico, and in the USA. They have presented their work nationally at Pulitzer Arts Foundation in St. Louis, MO, David Zwirner Gallery in New York, NY, and locally at BAMPFA, Dance Lovers 8, ODC Pilot71, LevySalon, Works in the Works, Studio 210, 63 Bluxome Street, Spruce Street Co-op, and SPF12. They are current choreographers in residence at RoundAntennae under the mentorship of KT Nelson. Emma dances with Rachael Cleveland’s ReadyMaids in Oakland and Ky with Molly Rose-Williams and co.
-
-
-
-
 
 ### Jeremy Bannon-Neches
 
@@ -88,7 +88,8 @@ Audrey Johnson currently dances with GERALDCASELDANCE. Her‌ work sources black
 
 - - -
 
-Kickbal is fiscally sponsored by Dancers Group. [Make a tax-deductible contribution here](https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=). 
+Kickbal is fiscally sponsored by Dancers Group. [Make a tax-deductible contribution here](https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=).
+
 Contact: emmahalladey@gmail.com
 
 ![Beginning of a spin.](/uploads/1.jpg "Beginning of a spin.")
