@@ -14,13 +14,9 @@ meta:
     dance and overthink emails.
   title: Kickbal Dance Company
 ---
-**News!** ---> Kickbal is the recipient of the ODC Theater Fleishhacker Opportunity Fund and will be producing a show at ODC Theater in April 2020! **DATES: April 10th & 11th at 8pm**
+**News!** ---> Kickbal Presents HOMEBODY at ODC Theater. April 10-11, 8pm. Buy tickets here: http://odc.dance/homebody 
 
-**Upcoming** ---> Catch Kickbal at [Fresh Festival 2020](https://freshfestival.org/exchanges)!
-<br/>RIPE [raw + intimate performance experiments]
-Thursday, January 9, 7:00pm
-at Brava! for Women in the Arts
-
+**Upcoming** ---> 
 
 <div style="margin: 4rem 0; display: flex; justify-content: center;">
   <video autoplay loop muted playsinline style="max-width: 100%;">
@@ -64,13 +60,25 @@ Chelsea Reichert is a freelance dancer based in San Francisco, California. She g
 
 ![Cauveri Madabushi Suresh smiling in a grocery store aisle.](/uploads/cauveri.jpg "Cauveri Madabushi Suresh smiling in a grocery store aisle.")
 
-Cauveri Madabushi Suresh graduated from Barnard College with a B.A. in Dance. She has had the fortune to learn from Jodi Melnick, Doug Varone, David Parker, Katie Faulkner, and Alex Springer among many others, and has performed in original works by Joanna Kotze, Jodi Melnick, Okwui Okpokwasili, and Christina Robson. She collaborates frequently with Leah Samuels as part of the project Samuels/Suresh and with Kylie Woodward-Sollesnes as part of Apartment A Dances, and currently dances for Lauren Simpson Dance and Kickbal.  
+Cauveri Madabushi Suresh holds a B.A. in dance from Barnard College. She splits her time between New York and the Bay Area, where she has danced with Jodi Melnick, Lauren Simpson Dance, and Kickbal.
 
 ### Melissa Weikart
 
 ![Melissa Weikart smiling.](/uploads/melissa.jpg "Melissa Weikart smiling.")
 
 Melissa Weikart is a vocalist, pianist, and composer based in Boston, MA. After graduating from Tufts University in 2016 (B.A. Music and Spanish), she earned her Master’s degree in Contemporary Improvisation from New England Conservatory. Melissa co-founded Students Advocating for Gender Equality at NEC, and was awarded an Entrepreneurial Musicianship grant to recompose the album Pet Sounds by The Beach Boys for an all-female rock band. In December 2017, she released her debut EP “Coffee,” and she is currently working on a full-length album.
+
+### Gizeh Muniz
+
+![Gizeh Muniz](/uploads/gizeh.png "Gizeh Muniz")
+
+Gizeh Muniz is a Mexican artist and educator and believes that creation through the body is the best path to generate consciousness and empathy in the world. She has performed with Sara Shelton Mann, Kathleen Hermesdorf and Lizz Roman & Dancers Company in San Francisco, CA; Silla Danza and Teatro de León in Baja California; Ocho Proyecto Gato in Mexico City. 
+
+### Audrey Johnson
+
+![Audrey](/uploads/audrey.png "Audrey")
+
+Audrey Johnson currently dances with GERALDCASELDANCE. Her‌ work sources black feminist metaphysics, afrofuturism, time travel, geology, and joy as embodied resilience practices and survival strategies. ‌Audrey‌ ‌is‌ ‌a‌ ‌co-founder‌ ‌of‌ Collective Sweat Detroit and holds‌ ‌a‌ ‌BFA‌ ‌in‌ ‌Dance‌ ‌from‌ ‌Wayne‌ ‌State‌ ‌University.‌
 
 - - -
 
