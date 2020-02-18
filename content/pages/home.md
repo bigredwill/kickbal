@@ -30,9 +30,20 @@ meta:
 
 - - -
 
+
+
+
+<div>
+<span>Donate -></span>
 <a href="https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=">
-![Click here to donate.](/uploads/bee.jpg "Click here to donate.")
+<img src="/uploads/bee.jpg" alt="Click here to donate." title="Click here to donate.">
 </a>
+<span><- click the bee</span>
+</div>
+
+
+
+
 
 ## Kickbal fam
 
