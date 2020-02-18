@@ -31,11 +31,10 @@ meta:
 - - -
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <span>Donate -></span>
+  <img src="/uploads/bee.jpg" alt="Click here to donate." title="Click here to   donate." />
   <a href="https://www.flipcause.com/secure/cause_pdetails/NTAxNjU=">
-    <img src="/uploads/bee.jpg" alt="Click here to donate." title="Click here to   donate." />
+    Click here to donate.
   </a>
-  <span><- click the bee</span>
 </div>
 
 ## Kickbal fam
