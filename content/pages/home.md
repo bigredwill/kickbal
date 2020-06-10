@@ -14,7 +14,7 @@ meta:
     dance and overthink emails.
   title: Kickbal Dance Company
 ---
-   **News!** ---> Kickbal Presents HOMEBODY at ODC Theater. April 10-11, 8pm. Buy tickets here: http://odc.dance/homebody 
+   **News!** ---> Kickbal Presents HOMEBODY at ODC Theater. December 4th and 5th, 8pm. Buy tickets here: http://odc.dance/homebody 
 
 ![HOMEBODY April 10-11, 8pm](/uploads/_83a9820.jpg "HOMEBODY April 10-11, 8pm")
 
