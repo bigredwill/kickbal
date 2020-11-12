@@ -14,9 +14,9 @@ meta:
     dance and overthink emails.
   title: Kickbal Dance Company
 ---
-**Next show --->** HOMEBODY is happening at a sheltered, open-air location in Oakland. December 2-5, 2020 at 8pm. Join our email list for location and tickets.
+**Next show --->** HOMEBODY is happening at a sheltered, open-air location in Oakland. December 2-5, 2020 at 8pm. Tickets at https://homebody.splashthat.com/
 
-
+Join our email list below:
 
 <!-- Begin Mailchimp Signup Form -->
 
