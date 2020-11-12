@@ -18,35 +18,19 @@ meta:
 
 Join our email list below:
 
-<!-- Begin Mailchimp Signup Form -->
-
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-
-<style type="text/css">
-
-\#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-
-</style>
 
 <div id="mc_embed_signup">
 
 <form action="https://kickbal.us4.list-manage.com/subscribe/post?u=21f77186b23695c8b83534fdd&amp;id=665c2e016a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-\    <div id="mc_embed_signup_scroll">
+<div id="mc_embed_signup_scroll">
 
 <h2>Subscribe to emails from kickbal</h2>
 
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-
 <div class="mc-field-group">
 
-<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-
-</label>
+<label for="mce-EMAIL">Email Address</label>
 
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 
@@ -60,11 +44,11 @@ Join our email list below:
 
 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 
-\    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_21f77186b23695c8b83534fdd_665c2e016a" tabindex="-1" value=""></div>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_21f77186b23695c8b83534fdd_665c2e016a" tabindex="-1" value=""></div>
 
-\    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 
-\    </div>
+ </div>
 
 </form>
 
